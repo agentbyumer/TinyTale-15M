@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local Model Weights & Checkpoints (Do not push to GitHub)
+TinyTale-15M/
+tiny_tale_checkpoints/
+tokenized_dataset/
